@@ -1,0 +1,15 @@
+body.jp-notebook.reveal-viewport {
+    background-color: #101010;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #ddd;
+}
+
+.jp-RenderedHTMLCommon a:link {
+    color: #bbbd51;
+}
+
+.jp-RenderedHTMLCommon {
+    color: #999
+}
