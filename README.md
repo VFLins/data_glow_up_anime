@@ -1,3 +1,5 @@
+![Primeiro slide com título: "Entendendo a audiência da galera dos animes" e subtítulo "Análise do público que assiste animes usando um recorte de dados coletados do myanimelist.net"](cover.png)
+
 # Descrição
 
 Uma breve apresentação dos dados de animes em uma apresentação HTML produzida com Jupyter Notebook e seu utilitário `nbconvert`.
